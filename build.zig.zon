@@ -2,9 +2,9 @@
 .{
     .name = .ztap,
 
-    .version = "0.9.6",
+    .version = "0.10.0",
 
-    .minimum_zig_version = "0.16.0",
+    .minimum_zig_version = "0.17.0",
 
     .fingerprint = 0x5add74b24da7bbda,
 
